@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Ciclo4\\EFSRT\\SpotifyEFSRT\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45BB9188-1748-45B1-AF8A-9CCBAFF7F692}|SpotifyEFSRT\\SpotifyEFSRT.csproj|c:\\ciclo4\\efsrt\\spotifyefsrt\\spotifyefsrt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BB9188-1748-45B1-AF8A-9CCBAFF7F692}|SpotifyEFSRT\\SpotifyEFSRT.csproj|solutionrelative:spotifyefsrt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BB9188-1748-45B1-AF8A-9CCBAFF7F692}|SpotifyEFSRT\\SpotifyEFSRT.csproj|c:\\ciclo4\\efsrt\\spotifyefsrt\\spotifyefsrt\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BB9188-1748-45B1-AF8A-9CCBAFF7F692}|SpotifyEFSRT\\SpotifyEFSRT.csproj|solutionrelative:spotifyefsrt\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BB9188-1748-45B1-AF8A-9CCBAFF7F692}|SpotifyEFSRT\\SpotifyEFSRT.csproj|c:\\ciclo4\\efsrt\\spotifyefsrt\\spotifyefsrt\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{45BB9188-1748-45B1-AF8A-9CCBAFF7F692}|SpotifyEFSRT\\SpotifyEFSRT.csproj|solutionrelative:spotifyefsrt\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BB9188-1748-45B1-AF8A-9CCBAFF7F692}|SpotifyEFSRT\\SpotifyEFSRT.csproj|c:\\ciclo4\\efsrt\\spotifyefsrt\\spotifyefsrt\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BB9188-1748-45B1-AF8A-9CCBAFF7F692}|SpotifyEFSRT\\SpotifyEFSRT.csproj|solutionrelative:spotifyefsrt\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BB9188-1748-45B1-AF8A-9CCBAFF7F692}|SpotifyEFSRT\\SpotifyEFSRT.csproj|c:\\ciclo4\\efsrt\\spotifyefsrt\\spotifyefsrt\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BB9188-1748-45B1-AF8A-9CCBAFF7F692}|SpotifyEFSRT\\SpotifyEFSRT.csproj|solutionrelative:spotifyefsrt\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BB9188-1748-45B1-AF8A-9CCBAFF7F692}|SpotifyEFSRT\\SpotifyEFSRT.csproj|c:\\ciclo4\\efsrt\\spotifyefsrt\\spotifyefsrt\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BB9188-1748-45B1-AF8A-9CCBAFF7F692}|SpotifyEFSRT\\SpotifyEFSRT.csproj|solutionrelative:spotifyefsrt\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BB9188-1748-45B1-AF8A-9CCBAFF7F692}|SpotifyEFSRT\\SpotifyEFSRT.csproj|c:\\ciclo4\\efsrt\\spotifyefsrt\\spotifyefsrt\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BB9188-1748-45B1-AF8A-9CCBAFF7F692}|SpotifyEFSRT\\SpotifyEFSRT.csproj|solutionrelative:spotifyefsrt\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 754,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Ciclo4\\EFSRT\\SpotifyEFSRT\\SpotifyEFSRT\\Content\\Site.css",
+              "RelativeDocumentMoniker": "SpotifyEFSRT\\Content\\Site.css",
+              "ToolTip": "C:\\Ciclo4\\EFSRT\\SpotifyEFSRT\\SpotifyEFSRT\\Content\\Site.css",
+              "RelativeToolTip": "SpotifyEFSRT\\Content\\Site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-07T02:20:33.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Ciclo4\\EFSRT\\SpotifyEFSRT\\SpotifyEFSRT\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SpotifyEFSRT\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Ciclo4\\EFSRT\\SpotifyEFSRT\\SpotifyEFSRT\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SpotifyEFSRT\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T01:42:18.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Ciclo4\\EFSRT\\SpotifyEFSRT\\SpotifyEFSRT\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "SpotifyEFSRT\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Ciclo4\\EFSRT\\SpotifyEFSRT\\SpotifyEFSRT\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "SpotifyEFSRT\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T01:42:17.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Ciclo4\\EFSRT\\SpotifyEFSRT\\SpotifyEFSRT\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SpotifyEFSRT\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Ciclo4\\EFSRT\\SpotifyEFSRT\\SpotifyEFSRT\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SpotifyEFSRT\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T01:30:27.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Ciclo4\\EFSRT\\SpotifyEFSRT\\SpotifyEFSRT\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "SpotifyEFSRT\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Ciclo4\\EFSRT\\SpotifyEFSRT\\SpotifyEFSRT\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "SpotifyEFSRT\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T01:30:05.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Ciclo4\\EFSRT\\SpotifyEFSRT\\SpotifyEFSRT\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "SpotifyEFSRT\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Ciclo4\\EFSRT\\SpotifyEFSRT\\SpotifyEFSRT\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "SpotifyEFSRT\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T01:29:34.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Ciclo4\\EFSRT\\SpotifyEFSRT\\SpotifyEFSRT\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SpotifyEFSRT\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Ciclo4\\EFSRT\\SpotifyEFSRT\\SpotifyEFSRT\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SpotifyEFSRT\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T01:27:45.488Z",
+              "EditorCaption": ""
             }
           ]
         }
